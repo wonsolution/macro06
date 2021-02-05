@@ -15,3 +15,13 @@ python -m pip install opencv-python
 pip install numpy
 
 pip install numpy --upgrade
+
+
+### 텍스트를 이미지로 변경하는 라이브러리 
+pip install pytesseract
+
+pip install opencv-python
+
+
+# macro10 
+# 1초에 한번 실행하여 색상을 비교하고 동일하면 click 이벤트를 발생하는 소스 
